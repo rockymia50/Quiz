@@ -1,5 +1,5 @@
 body{
-     background-image: url("/Users/rogermcintosh/Quiz/assets/Images/Exam background.jpg");
+     background-image: url("./assets/Images/Exam background.jpg");
      height:100%;
      background-position: center;
     background-repeat: no-repeat;
